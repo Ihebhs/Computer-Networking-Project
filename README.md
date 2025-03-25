@@ -1,2 +1,2 @@
-# Computer-Networking-Project
-Computer-Networking-Project
+# CCNA_PROJECT
+PROJECT by Aditya Kumar and Siddhant Gahtori
